@@ -1,0 +1,12 @@
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\bin\Debug\Capa_Datos.dll
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\bin\Debug\Capa_Datos.pdb
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.dll
+C:\Users\Nadia\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.pdb
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\bin\Debug\Capa_Datos.dll
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\bin\Debug\Capa_Datos.pdb
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.csprojAssemblyReference.cache
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.csproj.CoreCompileInputs.cache
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.dll
+E:\Google Drive\Sistema_Gestión_Académica_Universitaria_EduSmart\SGAU_EduSmart\Capa_Datos\obj\Debug\Capa_Datos.pdb
